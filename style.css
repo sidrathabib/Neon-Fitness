@@ -1,0 +1,148 @@
+body {
+	font-family: 'Merriweather', serif;
+	background-color: #000000;
+}
+
+h1 {
+  margin: 30px;
+	font-family: 'Merriweather', serif;
+	font-size: 45px;
+	text-align: center;
+	color: #fffb00;
+}
+
+h2 {
+  text-align: center;
+  color: #ffffff;
+
+}
+
+h5 {
+  text-align: center;
+  color: #ffffff;
+}
+
+p {
+  background-color: #000000; 
+  color: #ffffff; 
+  border-radius: 5px; 
+  margin: 10px; 
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+.card {
+  background-color: #000000;
+  border-radius: 10px;
+  color: #fffb00;
+  margin: 10px; 
+  font-family: monospace; 
+  text-align: center;
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+  
+}
+
+.main-header { 
+  background-image: url("https://i.pinimg.com/564x/9b/71/d7/9b71d759f2438aad1efa60bc06c130f1.jpg")
+}
+
+ul {
+  list-style-type: none;
+  padding: 0.5em;
+  background-color: #8e0ab2;
+  overflow: hidden;
+}
+
+li {
+  display: inline;
+  border-right: 2px solid white;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  padding: 1em;
+  font-size: 1.15em;
+}
+
+li a:hover {
+  background-color:#ffffff;
+  color: #000000;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.carousel-caption {
+  height:29rem;
+  position: absolute;
+  left:0;
+  right:0;
+  paddling-bottom:50px;
+}
+
+.introduction {
+  color: #ffffff;
+  text-align: center;
+  font-family: monospace; 
+}
+
+.Title {
+  color: #fffb00;
+  font-family: 'Rockwell', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  background-image: url("https://i.pinimg.com/564x/9b/71/d7/9b71d759f2438aad1efa60bc06c130f1.jpg")
+}
+
+.Exercise {
+  color: #fffb00;
+  text-align: center;
+  font-family: monospace; 
+}
+
+.Music {
+  color: #fffb00;
+  text-align: center;
+  font-family: monospace; 
+}
+.playlist {
+  color: #fffb00;
+  text-align: center;
+  font-family: monospace; 
+  padding-top: 50px;
+}
+
+.container {
+  text-align: center;
+  margin: auto;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+
+.intro {
+color: #ffffff;
+}
+
+.titleF {
+color: #fffb00;
+}
