@@ -1,6 +1,6 @@
 # Neon-Fitness
-## Project Description
 
+## Project Description
 Mini fitness webpage created with 3 peers in a week: With thanks to Breakthrough Tech, NY, a program that bridges the gap between college and careers for racially and economically diverse group of undergraduate women and non-binary students, who face unique barriers to entry into this fast-growing field. Check out their website here: [Breakthrough Tech](https://www.breakthroughtech.org/)
 
 ## Sid's Take
