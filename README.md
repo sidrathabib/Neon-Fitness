@@ -6,6 +6,8 @@ With thanks to Breakthrough Tech, NY, a program that bridges the gap between col
 ## Thoughts
 I was cleaning up my GitHub and remembered that I had other projecs from the past! They are defintely not at the level that I want to be at right now, but they are defintely a start, a marking point to see how far my skills have improved since then. Launching new projects soon this summer! (Currently: June 13, 2023)
 
+Also oops looks like the front page has an error loading up an image. I will get to fixing that soon when I have the chance. 
+
 <div dir="rtl">Sid</div>
 <div dir="rtl">Old-Project 1</div>
 <div dir="rtl">Time: April 2022</div>
